@@ -1,1 +1,1 @@
-Construir rectangulo, circulo, elipse y cuadrado
+Ejercicios UML del 1 al 5
