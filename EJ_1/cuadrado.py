@@ -1,4 +1,4 @@
-from Objetos.figura import Figura
+from EJ_1.figura import Figura
 class Cuadrado(Figura):
     def __init__(self, lado, color="azul"):
         super().__init__()

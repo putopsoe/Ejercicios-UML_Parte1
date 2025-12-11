@@ -1,4 +1,4 @@
-from Objetos.figura import Figura
+from EJ_1.figura import Figura
 class Circulo(Figura):
     def __init__(self, radio, color="rojo"):
         super().__init__()

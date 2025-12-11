@@ -1,4 +1,4 @@
-from Objetos.figura import Figura
+from EJ_1.figura import Figura
 class Rectangulo(Figura):
     def __init__(self, ancho, alto, color="naranja"):
         super().__init__()

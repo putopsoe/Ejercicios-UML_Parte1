@@ -1,4 +1,4 @@
-from Objetos.figura import Figura
+from EJ_1.figura import Figura
 class Elipse(Figura):
     def __init__(self, radio_mayor, radio_menor, color="amarillo"):
         super().__init__()

@@ -1,7 +1,7 @@
-from Objetos.circulo import Circulo
-from Objetos.cuadrado import Cuadrado
-from Objetos.elipse import Elipse
-from Objetos.rectangulo import Rectangulo
+from EJ_1.circulo import Circulo
+from EJ_1.cuadrado import Cuadrado
+from EJ_1.elipse import Elipse
+from EJ_1.rectangulo import Rectangulo
 
 def main():
     circulo = Circulo(radio=5, color="rojo")
