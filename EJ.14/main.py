@@ -15,8 +15,8 @@ def main():
 
     # Triángulo t2: comparte la arista p2-p3, y añade p4
     t2 = Triangle(name="t2")
-    t2.add_point(p2)  # punto compartido
-    t2.add_point(p3)  # punto compartido
+    t2.add_point(p2)
+    t2.add_point(p3)
     t2.add_point(p4)
 
     # Mostrar triángulos
